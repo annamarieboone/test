@@ -1,0 +1,19 @@
+body {
+    display: block;
+    height:13000px;
+}
+#v0 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+#time {
+    position:fixed;
+    z-index: 1;
+}
+#time1 {
+    position:fixed;
+    left:100px;
+    z-index: 1;
+}
